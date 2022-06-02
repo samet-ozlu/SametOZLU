@@ -2,6 +2,6 @@
 
 Hi I'm ozlu
 
-| I am a Web Designer
+| I am interested in web design
 | Here you can find the projects
 | Instagram : @ozlu_web
