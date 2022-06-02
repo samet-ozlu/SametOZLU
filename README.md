@@ -1,4 +1,4 @@
-# SametOZLU
+# Hello there
 
 Hi I'm ozlu
 
